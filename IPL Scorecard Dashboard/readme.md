@@ -51,10 +51,10 @@ The cleaned and scraped data was then loaded into Power BI, where various analys
 In future iterations of this project, I plan to develop match data highlights, providing additional insights into team and player performances.
 
 ## Dashboard Screenshots
-![Dashboard Screenshot](images\Dashboard ScreenShots\theme.png)
-![Dashboard Screenshot](images\Dashboard ScreenShots\home.png)
-![Dashboard Screenshot](images\Dashboard ScreenShots\drillthrough.png)
-![Dashboard Screenshot](images\Dashboard ScreenShots\bowlerprofile.png)
+![Dashboard Screenshot](https://github.com/Lord2709/PowerBI_Projects/blob/main/IPL%20Scorecard%20Dashboard/images/Dashboard%20ScreenShots/theme.png)
+![Dashboard Screenshot](https://github.com/Lord2709/PowerBI_Projects/blob/main/IPL%20Scorecard%20Dashboard/images/Dashboard%20ScreenShots/home.png))
+![Dashboard Screenshot](https://github.com/Lord2709/PowerBI_Projects/blob/main/IPL%20Scorecard%20Dashboard/images/Dashboard%20ScreenShots/drillthrough.png)
+![Dashboard Screenshot](https://github.com/Lord2709/PowerBI_Projects/blob/main/IPL%20Scorecard%20Dashboard/images/Dashboard%20ScreenShots/bowlerprofile.png)
 
 ## Conclusion
 This project serves as an extensive analysis of IPL bowlers and teams, contributing to a deeper understanding of performance metrics in cricket.
