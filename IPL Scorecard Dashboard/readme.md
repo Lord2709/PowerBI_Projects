@@ -61,6 +61,3 @@ This project serves as an extensive analysis of IPL bowlers and teams, contribut
 
 ## Acknowledgements
 Thank you to the creators of the dataset and any other resources used in this project.
-
-## Contact Information
-If you have any questions or feedback, feel free to contact me at [sahilchaudhari0927@gmail.com](mailto:sahilchaudhari0927@gmail.com).
